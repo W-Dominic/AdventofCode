@@ -1,0 +1,45 @@
+$ cd /
+$ ls
+dir a
+10 b.txt
+20 c.dat
+dir d
+dir x
+$ cd x
+$ ls 
+dir y
+50 dasdaw
+20 avasdc
+5 dasdadaw
+$ cd y
+$ ls
+10 qweq
+$ cd ..
+$ cd ..
+$ cd a
+$ ls
+dir e
+dir z
+5 f
+10 g
+40 h.lst
+$ cd e
+$ ls
+100 i
+$ cd ..
+$ cd z
+$ ls
+5 dasd
+1 dasdasd
+$ cd ..
+$ cd ..
+$ cd d
+$ ls
+100 j
+200 d.log
+100 d.ext
+20 k
+dir f
+$ cd f
+$ ls
+1 hello.txt
